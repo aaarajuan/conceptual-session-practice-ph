@@ -82,6 +82,7 @@
     justify-content: space-around;
     align-items: center;
     flex-direction: row-reverse;
+    padding: 10px;
 }
 
 .about-title{
