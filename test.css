@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box{
+    padding: 20px;
+    background-color: red;
+    color: white;
+    width: 110px;
+}
+
+.box2{
+    padding: 20px;
+    background-color: green;
+    color: white;
+    width: 110px;
+}
+
+.box3{
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    width: 110px;
+}
